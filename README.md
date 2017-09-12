@@ -1,3 +1,3 @@
 # Java_GPGPU
 
-A test project for GPGPU programming in Java.
+A project I created to play around with GPGPU in Java a bit
